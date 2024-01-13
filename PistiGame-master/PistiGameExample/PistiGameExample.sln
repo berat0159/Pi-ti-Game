@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PistiGameDomain", "PistiGameDomain\PistiGameDomain.csproj", "{EF23C17D-A1DD-43B3-952F-4ECCF805D280}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PistiGameWinFormsApp", "PistiGameWinFormsApp\PistiGameWinFormsApp.csproj", "{7635ADAA-F448-433A-9E88-712884E82F85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF23C17D-A1DD-43B3-952F-4ECCF805D280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF23C17D-A1DD-43B3-952F-4ECCF805D280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF23C17D-A1DD-43B3-952F-4ECCF805D280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF23C17D-A1DD-43B3-952F-4ECCF805D280}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7635ADAA-F448-433A-9E88-712884E82F85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7635ADAA-F448-433A-9E88-712884E82F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7635ADAA-F448-433A-9E88-712884E82F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7635ADAA-F448-433A-9E88-712884E82F85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07E8043D-87C7-4232-B749-B3A00A7F1CCA}
+	EndGlobalSection
+EndGlobal
